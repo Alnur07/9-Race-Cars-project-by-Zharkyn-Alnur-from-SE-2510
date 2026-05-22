@@ -1,0 +1,55 @@
+[
+    {
+        "brand": "BMW",
+        "model": "M5",
+        "mileage": 6767,
+        "records": {
+            "2025": "1:59:20"
+        }
+    },
+    {
+        "brand": "Ferrari",
+        "model": "F8",
+        "mileage": 1200,
+        "records": {}
+    },
+    {
+        "brand": "Lamborghini",
+        "model": "Huracan",
+        "mileage": 3400,
+        "records": {}
+    },
+    {
+        "brand": "Lada",
+        "model": "Priora",
+        "mileage": 150000,
+        "records": {}
+    },
+    {
+        "brand": "BMW",
+        "model": "M8",
+        "mileage": 10239104,
+        "records": {
+            "2025": "1:41:41",
+            "Nurburgring": {
+                "2025": "01:43:42"
+            }
+        }
+    },
+    {
+        "brand": "Lada",
+        "model": "Vesta",
+        "mileage": 3123213,
+        "records": {}
+    },
+    {
+        "brand": "BMW",
+        "model": "X5",
+        "mileage": 1200,
+        "records": {
+            "Nurburgring": {
+                "2023": "01:59:56"
+            }
+        }
+    }
+]

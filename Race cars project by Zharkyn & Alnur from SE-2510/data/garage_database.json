@@ -1,0 +1,79 @@
+[
+    {
+        "brand": "Ferrari",
+        "model": "F8",
+        "mileage": 1200,
+        "type": "RaceCar",
+        "records": {
+            "Nurburgring": {
+                "2024": "07:02:50",
+                "2025": "06:58:12"
+            },
+            "Monza": {
+                "2025": "01:42:35"
+            }
+        }
+    },
+    {
+        "brand": "Lamborghini",
+        "model": "Huracan",
+        "mileage": 3400,
+        "type": "RaceCar",
+        "records": {
+            "Nurburgring": {
+                "2025": "07:04:20"
+            },
+            "Monza": {
+                "2024": "01:45:10",
+                "2026": "01:41:05"
+            }
+        }
+    },
+    {
+        "brand": "Porsche",
+        "model": "911 GT3 RS",
+        "mileage": 2100,
+        "type": "RaceCar",
+        "records": {
+            "Nurburgring": {
+                "2023": "06:49:30",
+                "2025": "06:44:20"
+            },
+            "Monza": {
+                "2025": "01:39:50"
+            }
+        }
+    },
+    {
+        "brand": "Lada",
+        "model": "Priora",
+        "mileage": 150000,
+        "type": "RaceCar",
+        "records": {
+            "Nurburgring": {
+                "2026": "12:34:56"
+            },
+            "Monza": {
+                "2025": "02:12:34"
+            }
+        }
+    },
+    {
+        "brand": "BMW",
+        "model": "M2",
+        "mileage": 12344,
+        "type": "RaceCar",
+        "records": {
+            "Nurburgring": {
+                "2023": "03:53:23"
+            }
+        }
+    },
+    {
+        "brand": "Lada",
+        "model": "Niva",
+        "mileage": 123123,
+        "type": "StreetCar",
+        "passenger_seats": 4
+    }
+]
